@@ -35,7 +35,7 @@ func configureFlags() []cli.Flag {
 			Required: true,
 			Name:     "password",
 			Aliases:  []string{"p"},
-			Usage:    "Senha para criptografar/descriptografar valores",
+			Usage:    "Senha para criptografar/descriptografar dados",
 		},
 		&cli.StringFlag{
 			Required: true,
