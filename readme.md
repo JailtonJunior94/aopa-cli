@@ -1,7 +1,7 @@
 # AOPA - CLI (Command Line Interface)
 
 # Sobre 📖
-CLI (Command Line Interface) para facilitar a criptografia e descriptografai de dados.
+CLI (Command Line Interface) para facilitar a criptografia e descriptografia de dados.
 
 ## Como Utilizar? 🔥
 1º Baixar a sdk do [Golang](https://golang.org/dl/), para verificar a versão utilizar
