@@ -12,6 +12,8 @@ go version
 ```
 go install
 ```
+3º Pegar o arquivo na diretório bin/main.exe e configurar nas variáveis de ambientes
+
 Pronto, o projeto estará instalado na sua máquina globalmente 😁😁😁
 
 ## Help
